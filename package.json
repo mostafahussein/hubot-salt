@@ -1,0 +1,39 @@
+{
+  "name": "hubot-salt",
+  "description": "A hubot script for managing salt minions",
+  "version": "0.0.1-alpha.1",
+  "author": "Mostafa Hussein <mostafa.hussein91@gmail.com>",
+  "license": "MIT",
+
+  "keywords": ["hubot","hubot-scripts","saltstack"],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mostafahussein/hubot-salt.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/mostafahussein/hubot-salt/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt-release": "~0.6.0",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "grunt test"
+  }
+}
