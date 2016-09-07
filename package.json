@@ -1,7 +1,7 @@
 {
   "name": "hubot-salt",
   "description": "A hubot script for managing salt minions",
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1-alpha.1.1",
   "author": "Mostafa Hussein <mostafa.hussein91@gmail.com>",
   "license": "MIT",
 
