@@ -1,5 +1,8 @@
 # hubot-salt
 
+[![Version npm](https://img.shields.io/npm/v/hubot-salt.svg?style=flat-square)](https://www.npmjs.com/package/hubot-salt)
+[![npm Downloads](https://img.shields.io/npm/dm/hubot-salt.svg?style=flat-square)](https://www.npmjs.com/package/hubot-salt)
+
 A hubot script for managing salt minions
 
 See [`src/salt.coffee`](src/salt.coffee) for full documentation.
